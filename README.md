@@ -1,4 +1,4 @@
-# Evaluate a new Git server to replacement GitHub.com for exports.
+# Evaluate a new Git server to replacement U.S. GitHub.com.
 
 According: [GitHub and Export Controls](https://help.github.com/en/articles/github-and-export-controls)
 
@@ -9,6 +9,8 @@ According: [GitHub and Export Controls](https://help.github.com/en/articles/gith
 Its means GitHub was controllable by U.S. goverment.
 
 I (Phodal) as a Developer, will need a new Git Server for Free Software.
+
+If you have some advice, please leave in issues or comments.
 
 LICENSE
 ---
